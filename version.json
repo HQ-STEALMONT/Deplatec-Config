@@ -1,16 +1,16 @@
 {
   "version": "1.0.0",
   "enabled": true,
-  "update_url": "https://github.com/TU_USUARIO/TU_REPO/releases/latest/download/setup.exe",
+  "update_url": "https://github.com/hq/deplatecapp/releases/latest/download/setup.exe",
   "downloads": {
     "anydesk": "https://download.anydesk.com/AnyDesk.exe",
     "nzxt_cam": "https://nzxt-app.nzxt.com/NZXT-CAM-Setup.exe",
     "chrome": "https://dl.google.com/chrome/install/latest/chrome_installer.exe",
-    "nvidia_app": "https://international.download.nvidia.com/geforce/NVIDIA_app_beta.exe",
-    "amd_adrenalin": "https://drivers.amd.com/drivers/auto/autodetectutility.exe",
-    "occt": "https://www.ocbase.com/files/OCCT.exe",
+    "nvidia_app": "https://es.download.nvidia.com/nvapp/client/11.0.4.526/NVIDIA_app_v11.0.4.526.exe",
+    "amd_adrenalin": "https://drivers.amd.com/drivers/installer/25.10/whql/amd-software-adrenalin-edition-25.6.1-minimalsetup-250602_web.exe",
+    "occt": "https://www.ocbase.com/download/edition:Personal/os:Windows",
     "cpu_z": "https://download.cpuid.com/cpu-z/cpu-z_2.09-en.exe",
     "core_temp": "https://www.alcpu.com/CoreTemp/Core-Temp-setup.exe",
-    "furmark": "https://geeks3d.com/dl/show/32"
+    "furmark": "https://www.geeks3d.com/dl/get/816"
   }
 }
