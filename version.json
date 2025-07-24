@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "enabled": true,
+  "update_url": "https://github.com/TU_USUARIO/TU_REPO/releases/latest/download/setup.exe",
+  "downloads": {
+    "anydesk": "https://download.anydesk.com/AnyDesk.exe",
+    "nzxt_cam": "https://nzxt-app.nzxt.com/NZXT-CAM-Setup.exe",
+    "chrome": "https://dl.google.com/chrome/install/latest/chrome_installer.exe",
+    "nvidia_app": "https://international.download.nvidia.com/geforce/NVIDIA_app_beta.exe",
+    "amd_adrenalin": "https://drivers.amd.com/drivers/auto/autodetectutility.exe",
+    "occt": "https://www.ocbase.com/files/OCCT.exe",
+    "cpu_z": "https://download.cpuid.com/cpu-z/cpu-z_2.09-en.exe",
+    "core_temp": "https://www.alcpu.com/CoreTemp/Core-Temp-setup.exe",
+    "furmark": "https://geeks3d.com/dl/show/32"
+  }
+}
