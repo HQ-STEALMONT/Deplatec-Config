@@ -11,6 +11,7 @@
     "occt": "https://www.ocbase.com/download/edition:Personal/os:Windows",
     "cpu_z": "https://download.cpuid.com/cpu-z/cpu-z_2.09-en.exe",
     "core_temp": "https://www.alcpu.com/CoreTemp/Core-Temp-setup.exe",
-    "furmark": "https://www.geeks3d.com/dl/get/816"
+    "furmark": "https://www.geeks3d.com/dl/get/816",
+    "windows_11": "https://go.microsoft.com/fwlink/?linkid=2171764"
   }
 }
