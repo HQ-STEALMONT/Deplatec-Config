@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "enabled": true,
+  "enabled": false,
   "update_url": "https://github.com/hq/deplatecapp/releases/latest/download/setup.exe",
   "downloads": {
     "anydesk": "https://download.anydesk.com/AnyDesk.exe",
